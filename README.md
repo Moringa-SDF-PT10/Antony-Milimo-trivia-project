@@ -23,7 +23,7 @@ This project narrows focus on the following concepts :
 
 ## Setup
 
-Check out the trivia APP through this link on Github pages: [Trivia APP]()
+Check out the trivia APP through this link on Github pages: [Trivia APP](https://moringa-sdf-pt10.github.io/Antony-Milimo-trivia-project/)
 
 To run this repository locally, follow these steps : 
  
